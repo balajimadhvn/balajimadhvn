@@ -1,18 +1,30 @@
-# Balaji Madhavan
+# Hi, I'm Balaji 👋
 
-MSc Bioinformatics · Bengaluru, India
+**Senior Bioinformatician** based in Chennai, India. I turn raw sequencing data into answers: variant calling, RNA-seq, single-cell, metagenomics, and the drug-discovery work that sits on top of them.
 
-I build computational tools for drug discovery and genomics: RNA-seq, metagenomics, variant analysis, docking and molecular simulation.
+I came into this from a B.Sc in Zoology and an M.Sc in Bioinformatics, so I like to start from the biology question and pick the tools afterwards.
 
-## Work
+## Projects worth opening
 
-- **[Nayancode Workbench](https://github.com/balajimadhvn/nayancode)**: open-source bioinformatics and cheminformatics that run in the web browser, with your files staying on your computer. Apache-2.0. Cite: [10.5281/zenodo.23393495](https://doi.org/10.5281/zenodo.23393495).
-- **[BioCADD](https://github.com/balajimadhvn/BioCADD)** and earlier pipelines for [AutoDock Vina docking](https://github.com/balajimadhvn/AutoDock-Vina-Docking-Pipeline), [GROMACS molecular dynamics](https://github.com/balajimadhvn/GROMACS_MD_Simulation_Automation), [variant calling](https://github.com/balajimadhvn/variant-calling-bash) and [differential expression in R](https://github.com/balajimadhvn/DEG-Analysis-R).
+| Project | What it is |
+|---|---|
+| [Candida auris: population genomics + drug repurposing](https://github.com/balajimadhvn?tab=repositories) | 38 Indian clinical isolates, pangenome-based target prioritisation, 129,800 docking runs against 10 targets, 100 ns MD (write-up in progress) |
+| [Aedes aegypti: stage-specific drug targeting](https://github.com/balajimadhvn/A-Novel-Vector-Control-Strategy-Stage-Specific-Drug-Targeting-in-Aedes-aegypti) | Life-stage RNA-seq to 21 target genes, homology models, docking, ADMET, MD |
+| [TNBC doxorubicin resistance](https://github.com/balajimadhvn/Overcoming-Doxorubicin-Resistance-in-TNBC-SC-Transcriptomic-and-Structure-Based-Drug-Discovery-) | Single-cell RNA-seq plus structure-based drug discovery |
+| [Gut microbiome and ageing](https://github.com/balajimadhvn/The-Impact-of-Aging-on-Gut-Microbiota-Diversity-and-Function-A-Comparative-Study-Across-Age-Groups) | 76 metagenomes, QIIME2 / Kraken2 / HUMAnN3 / PICRUSt2 |
+
+## Tools I wrote
+
+- [SeqImpactRNA](https://github.com/balajimadhvn/SeqIMPACT-rna-pipeline-tool): RNA-seq to DEGs from the command line
+- [MetaGenoScope](https://github.com/balajimadhvn/MetaGenoScopeTool): metagenomics from FASTQ
+- [AutoDock Vina docking pipeline](https://github.com/balajimadhvn/AutoDock-Vina-Docking-Pipeline): Snakemake, parallel docking
+- [GROMACS MD automation](https://github.com/balajimadhvn/GROMACS_MD_Simulation_Automation): setup to analysis in one script
+- [Variant calling in Bash](https://github.com/balajimadhvn/variant-calling-bash), [SNP analysis in Perl](https://github.com/balajimadhvn/snp-analysis-perl), [DEG plots in R](https://github.com/balajimadhvn/DEG-Analysis-R)
 
 ## Toolbox
 
-Python · R · Bash · Perl · JavaScript/TypeScript · GROMACS · AutoDock Vina · RDKit · nf-core pipelines
+Python · R · Bash · Perl · SQL · Snakemake · Docker · Git · GATK · DESeq2 · Seurat · QIIME2 · AutoDock Vina · GROMACS · RDKit
 
-## Links
+## Find me
 
-[ORCID 0009-0007-8654-3864](https://orcid.org/0009-0007-8654-3864)
+[LinkedIn](https://www.linkedin.com/in/balajimadhvn/) · [ORCID 0009-0007-8654-3864](https://orcid.org/0009-0007-8654-3864) · balajimadhvn@gmail.com
