@@ -8,7 +8,7 @@ I came into this from a B.Sc in Zoology and an M.Sc in Bioinformatics, so I like
 
 | Project | What it is |
 |---|---|
-| [Candida auris: population genomics + drug repurposing](https://github.com/balajimadhvn?tab=repositories) | 38 Indian clinical isolates, pangenome-based target prioritisation, 129,800 docking runs against 10 targets, 100 ns MD (write-up in progress) |
+| [Candida auris: population genomics + drug repurposing](https://github.com/balajimadhvn/Candida-auris-Population-Genomics-and-Drug-Repurposing) | 38 Indian clinical isolates, pangenome-based target prioritisation, 129,800 docking runs against 10 targets, 100 ns MD (write-up in progress) |
 | [Aedes aegypti: stage-specific drug targeting](https://github.com/balajimadhvn/A-Novel-Vector-Control-Strategy-Stage-Specific-Drug-Targeting-in-Aedes-aegypti) | Life-stage RNA-seq to 21 target genes, homology models, docking, ADMET, MD |
 | [TNBC doxorubicin resistance](https://github.com/balajimadhvn/Overcoming-Doxorubicin-Resistance-in-TNBC-SC-Transcriptomic-and-Structure-Based-Drug-Discovery-) | Single-cell RNA-seq plus structure-based drug discovery |
 | [Gut microbiome and ageing](https://github.com/balajimadhvn/The-Impact-of-Aging-on-Gut-Microbiota-Diversity-and-Function-A-Comparative-Study-Across-Age-Groups) | 76 metagenomes, QIIME2 / Kraken2 / HUMAnN3 / PICRUSt2 |
